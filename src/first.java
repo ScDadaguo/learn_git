@@ -4,7 +4,6 @@ public class first {
         System.out.println("终于创建好了");
         System.out.println("333");
         System.out.println("dev");
-
     }
 
 }
