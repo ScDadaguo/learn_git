@@ -5,6 +5,7 @@ public class first {
         System.out.println("333");
         System.out.println("dev");
         System.out.println("shiyishi");
+        System.out.println("yeyey");
     }
 
 }
