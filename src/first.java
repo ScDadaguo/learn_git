@@ -6,6 +6,7 @@ public class first {
         System.out.println("dev");
         System.out.println("shiyishi");
         System.out.println("yeyey");
+    System.out.println("测试fetch");
     }
 
 }
