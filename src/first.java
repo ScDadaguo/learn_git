@@ -8,6 +8,9 @@ public class first {
     System.out.println("++++++++++++++");
     System.out.println("rebase02");
     System.out.println("dsfd");
+
+        Long lId = Long.valueOf("juntian_90136566");
+//    System.out.println(lId);
     }
 
 }
